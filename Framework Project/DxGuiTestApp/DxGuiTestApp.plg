@@ -1,0 +1,87 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: DxGuiFramework - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\KEVIN~1.CHI\LOCALS~1\Temp\RSP1C.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_MBCS" /D "_LIB" /Fp"Debug/DxGuiFramework.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGApplication.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGBitmap.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGBitmapList.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGButton.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGColor.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGDebugLog.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGDisplayModeList.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGEdit.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGFont.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGGraphics.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGGui.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGImage.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGInput.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGLabel.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGMainWindow.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGMessageLog.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGResize.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGScrollBar.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGSurface.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGTitleBar.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DGWindow.cpp"
+"C:\Documents and Settings\Kevin.CHIPMUNK\My Documents\Senior Project\Framework Project\DxGuiFramework\DxGuiFramework.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\KEVIN~1.CHI\LOCALS~1\Temp\RSP1C.tmp" 
+Creating temporary file "C:\DOCUME~1\KEVIN~1.CHI\LOCALS~1\Temp\RSP1D.tmp" with contents
+[
+/nologo /out:"Debug\DxGuiFramework.lib" 
+".\Debug\DGApplication.obj"
+".\Debug\DGBitmap.obj"
+".\Debug\DGBitmapList.obj"
+".\Debug\DGButton.obj"
+".\Debug\DGColor.obj"
+".\Debug\DGDebugLog.obj"
+".\Debug\DGDisplayModeList.obj"
+".\Debug\DGEdit.obj"
+".\Debug\DGFont.obj"
+".\Debug\DGGraphics.obj"
+".\Debug\DGGui.obj"
+".\Debug\DGImage.obj"
+".\Debug\DGInput.obj"
+".\Debug\DGLabel.obj"
+".\Debug\DGMainWindow.obj"
+".\Debug\DGMessageLog.obj"
+".\Debug\DGResize.obj"
+".\Debug\DGScrollBar.obj"
+".\Debug\DGSurface.obj"
+".\Debug\DGTitleBar.obj"
+".\Debug\DGWindow.obj"
+".\Debug\DxGuiFramework.obj"
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\KEVIN~1.CHI\LOCALS~1\Temp\RSP1D.tmp"
+<h3>Output Window</h3>
+Compiling...
+DGApplication.cpp
+DGBitmap.cpp
+DGBitmapList.cpp
+DGButton.cpp
+DGColor.cpp
+DGDebugLog.cpp
+DGDisplayModeList.cpp
+DGEdit.cpp
+DGFont.cpp
+DGGraphics.cpp
+DGGui.cpp
+DGImage.cpp
+DGInput.cpp
+DGLabel.cpp
+DGMainWindow.cpp
+DGMessageLog.cpp
+DGResize.cpp
+DGScrollBar.cpp
+cl.exe terminated at user request.
+
+</pre>
+</body>
+</html>
